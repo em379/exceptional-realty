@@ -1,0 +1,18 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <!-- This is how you create a comment. I can see it in the code, but it will not appear in the browser. -->
+    <meta charset="UTF -8">
+    <title> Exceptional-Realty</title>
+</head>
+<body>
+    <!-- the body is viewable by the webpage. -->
+    Hello World
+    <h1>exceptional</h1>
+    <h2>realty</h2>
+    <p>Hello World</p>
+<ul><li>JAN</li><li>feb</li></ul>
+<img src= "images/intro-pic.jpg" alt="a living room" title=">
+</body>
+</html>
